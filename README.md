@@ -20,7 +20,10 @@
 
 `yarn dev` или `npm run dev`
 
-
 ## Использованные технологии:
 
-<li>React<li>
+<li>React</li>
+<li>Redux toolkit</li>
+<li>Axios</li>
+<li>React-router-dom</li>
+<li>Ant design</li>
